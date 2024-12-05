@@ -16,5 +16,13 @@ public class Moto extends Auto {
     public void acelerar(){
         System.out.println("Avanzo muy rapido");
     }
-    
+
+    /*@Override
+    public void pitar() {
+        System.out.println("Las motos no pitan");
+    }
+
+    public void arrancar(){
+        System.out.println("arrancar");
+    }*/
 }
